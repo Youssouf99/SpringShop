@@ -57,4 +57,5 @@ Le projet est organisé de la manière suivante :
 
 La documentation de l'API est disponible via Swagger.
 ![Documentation Swagger](https://github.com/Youssouf99/SpringShop/blob/master/image/Capture%20d%E2%80%99%C3%A9cran%202024-03-04%20%C3%A0%2018.12.00.png)
+![](https://github.com/Youssouf99/SpringShop/blob/master/image/Capture%20d%E2%80%99%C3%A9cran%202024-03-04%20%C3%A0%2018.12.27.png)
 
