@@ -36,7 +36,6 @@ La classe `Customer` représente un client du magasin. Elle contient les attribu
 - **firstName** : Prénom du client.
 - **lastName** : Nom du client.
 - **email** : Adresse e-mail du client.
-- **password** : Mot de passe du client (haché).
 - **phone** : Numéro de téléphone du client.
 - **dateCreated** : Date de création du compte client.
 
